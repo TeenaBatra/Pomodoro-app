@@ -1,4 +1,4 @@
-# Promodoro-app 🍅
+# Pomodoro-app 🍅
 ### An effective app for time management!
 
 The Pomodoro App is a *time management tool* that helps users implement the Pomodoro Technique in their work or study routine. It is built using Python and the Tkinter library, and provides a simple and easy-to-use interface for tracking Pomodoro intervals and breaks.
@@ -16,14 +16,14 @@ The Pomodoro App is a *time management tool* that helps users implement the Pomo
 ## Installation
 To install the Pomodoro App, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/pomodoro-app.git
-- Install the required packages: pip install -r requirements.txt
-- Run the application: python pomodoro.py
+- Clone the repository: git clone https://github.com/your-username/Pomodoro-app.git
+- Install the required packages(Python 3.x and tkinter library)
+- Run the application: python main.py
 
 ## Usage
 - Run the Pomodoro App
 - Click on the "Start" button to start the Pomodoro timer
-- Repeat steps 3-4 until you complete 4 Pomodoros, and enjoy the long break after that.
+- It will run the 20 mins work timers and 5 mins short break timers 4 times until its time for long break(25 mins.)
 - After the long break timer ends, repeat the above steps again.
 - To reset a timer, click on the "Reset" button
 
